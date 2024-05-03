@@ -1,0 +1,10 @@
+{
+	"prefix": "*",
+	"preRCMd": "!",
+	"iL": "https://discord.com/api/oauth2/authorize?client_id=1000443920116891760&permissions=2116881350471&scope=bot%20applications.commands",
+	"ytL": "https://youtube.com/channel/UCloirIJk4o4ATEYtW-wIdOA",
+	"cId": "1000443920116891760",
+	"ownId": "967627633603002428",
+	"devGuild": "982252672440758272",
+	"pId": "942744000622886933"
+}
