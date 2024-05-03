@@ -3,4 +3,4 @@
 > `/help `
 
 
-*Made by __DewandaArya#__*#Dudu
+*Made by __DewandaArya__*#Dudu
